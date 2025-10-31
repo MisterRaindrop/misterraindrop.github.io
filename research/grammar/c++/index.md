@@ -6,4 +6,4 @@ order: 1
 
 
 ## c++基础
-- [关键字volatile](/research/grammar/c++/volatile)
+- [关键字volatile](/research/grammar/c++/volatile/)
